@@ -53,3 +53,37 @@ Requirement Analysis involves a series of systematic activities to ensure the su
   - Ensure that requirements are clear, consistent, and testable.
 
 These activities collectively form the backbone of successful Requirement Analysis, enabling the development of reliable and scalable software systems.
+
+## Types of Requirements
+
+In software development, requirements are categorized into two main types: Functional and Non-functional Requirements. Below is an explanation of each, along with examples tailored to the booking management project.
+
+### Functional Requirements
+
+**Definition:**
+Functional requirements describe what the system should do. They specify the features and functionalities that fulfill user needs and business objectives.
+
+**Examples for the Booking Management Project:**
+
+- Users can create, modify, and cancel bookings through the system.
+- The system sends email notifications to users for booking confirmations and cancellations.
+- Administrators can manage room availability and block rooms for maintenance.
+- Users can search for available rooms using filters like date, price, and type of room.
+- The system processes payments securely and generates invoices for bookings.
+
+---
+
+### Non-functional Requirements
+
+**Definition:**
+Non-functional requirements define the quality attributes, constraints, or standards the system must adhere to. They focus on how the system performs its functions.
+
+**Examples for the Booking Management Project:**
+
+- **Performance:** The system should handle up to 1,000 simultaneous booking requests.
+- **Scalability:** The system must support an increase in users and bookings without performance degradation.
+- **Security:** All user data, including payment information, must be encrypted using industry-standard protocols.
+- **Usability:** The interface should be user-friendly and accessible for both mobile and desktop users.
+- **Availability:** The system must have 99.9% uptime to ensure round-the-clock access for users.
+
+By distinguishing between functional and non-functional requirements, we ensure the system is both effective in delivering its core functionality and reliable in meeting quality expectations.
