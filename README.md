@@ -87,3 +87,19 @@ Non-functional requirements define the quality attributes, constraints, or stand
 - **Availability:** The system must have 99.9% uptime to ensure round-the-clock access for users.
 
 By distinguishing between functional and non-functional requirements, we ensure the system is both effective in delivering its core functionality and reliable in meeting quality expectations.
+
+## Use Case Diagrams
+
+**Definition:**
+A Use Case Diagram is a visual representation of the interactions between actors (users or other systems) and the use cases (functionalities) of a system. It helps in understanding system behavior and identifying key functionalities.
+
+**Benefits:**
+
+- Simplifies communication between stakeholders and developers.
+- Provides a high-level overview of system interactions.
+- Identifies the roles and responsibilities of actors.
+
+**Example Use Case Diagram:**
+Below is a Use Case Diagram for the booking management system:
+
+![Use Case Diagram for Booking System](./alx-booking-uc.png)
